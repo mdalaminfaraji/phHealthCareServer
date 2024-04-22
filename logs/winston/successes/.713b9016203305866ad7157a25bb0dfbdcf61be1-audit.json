@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\.713b9016203305866ad7157a25bb0dfbdcf61be1-audit.json",
+    "files": [
+        {
+            "date": 1713084334084,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-14-04-14-success.log",
+            "hash": "f0d9a2ae3cf6cdd30e31d865ef42bb897a6cd75130bb03be751dcb8297a9e88f"
+        },
+        {
+            "date": 1713089311419,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-14-04-16-success.log",
+            "hash": "076f999f33d9181a9a1fb1712775a1ec828004ee618d7916ef8573e8551c59e0"
+        },
+        {
+            "date": 1713282080244,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-16-04-21-success.log",
+            "hash": "87d036fc6caed542306d4ad12d581212ae24572c2b9d363cf8bc46b4445a48c5"
+        },
+        {
+            "date": 1713327331318,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-04-10-success.log",
+            "hash": "af88939b8fdb43cfe254a361e9de45fe02e73e6c01b95b7818b072eb3d5e76d0"
+        },
+        {
+            "date": 1713330765497,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-04-11-success.log",
+            "hash": "085d9b17309db779929c86235f7e57ae774d279c99876abdc6415dfd3483e66d"
+        },
+        {
+            "date": 1713334335401,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-04-12-success.log",
+            "hash": "0503aed8c5bb96e44666ed8778349a18aa28b7cf8fc9498e2984c16937af1254"
+        },
+        {
+            "date": 1713352936541,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-04-17-success.log",
+            "hash": "8fc53ddf6ed4ffec79ede4fbe8caafcd94e4c54d466470ce0e4ba9d5efc38c4f"
+        },
+        {
+            "date": 1713361546965,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-17-04-19-success.log",
+            "hash": "e19612b6abd594c3414fa04829c1b6a71eb488c3a0975b5e0702c9c781bbbf0e"
+        },
+        {
+            "date": 1713421042973,
+            "name": "G:\\Next_js\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-18-04-12-success.log",
+            "hash": "d9bdc43edcecd781ea6c624bc4214e1a52876e5b533ab93d33dea824fcd08c3c"
+        }
+    ],
+    "hashType": "sha256"
+}
